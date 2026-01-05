@@ -1,0 +1,10 @@
+DATE: 2026-01-04
+MACRO_TRENDS:
+- INFLATION: Sticky at 3.1%. Goods prices elevated due to transitory trade shifts.
+- INTEREST_RATES: Fed easing cycle concluded; rates stabilized at ~2.75%.
+- TECHNOLOGY: AI Capex expansion continuing; $1 Trillion investment wave expected in data centers.
+- RISK_VECTORS: U.S. Midterm election volatility (late 2026); Global supply chain fragmentation.
+- SECTOR_SENTIMENT: 
+    * Bullish: Small caps, AI Infrastructure, Green Energy (post-OBBBA incentives).
+    * Bearish: Commercial Real Estate, Traditional Retail.
+

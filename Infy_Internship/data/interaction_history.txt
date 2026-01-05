@@ -1,0 +1,9 @@
+[2026-01-05 08:30:09] USER: I spent $120 on dinner yesterday
+[2026-01-05 08:30:34] USER: I spent $120 on dinner yesterday
+[2026-01-05 08:57:56] USER: I spent $50 on groceries
+[2026-01-05 09:47:02] USER: hello, My monthly budget is 5000 rupees and I spend 500 per weekend in a month for dinners and about 1500 on other expenses. What do I do with the rest.
+[2026-01-05 09:51:08] USER: hello, My monthly budget is 5000 rupees and I spend 500 per weekend in a month for dinners and about 1500 on other expenses. What do I do with the rest.
+[2026-01-05 10:34:17] USER: hello, My monthly budget is 5000 rupees and I spend 500 per weekend in a month for dinners and about 1500 on other expenses. What do I do with the rest.
+[2026-01-05 10:39:01] USER: hello, My monthly budget is 5000 rupees and I spend 500 per weekend in a month for dinners and about 1500 on other expenses. What do I do with the rest.
+[2026-01-05 10:40:43] USER: You: hello, My monthly budget is 5000 rupees and I spend 500 per weekend in a month for dinners and about 1500 on other expenses. What do I do with the rest.
+[2026-01-05 10:40:57] USER: You: hello, My monthly budget is 5000 rupees and I spend 500 per weekend in a month for dinners and about 1500 on other expenses. What do I do with the rest.

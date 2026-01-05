@@ -1,0 +1,28 @@
+{
+    "user_id": "001",
+    "personal": {
+        "name": "Alex",
+        "age": 34,
+        "occupation": "Tech Consultant"
+    },
+    "risk_profile": {
+        "score": 4,
+        "label": "Conservative-Moderate",
+        "capacity": "High (Stable income, low DTI ratio)",
+        "tolerance": "Low (Prefers 12-month runway)"
+    },
+    "interests": [
+        "AI infrastructure",
+        "Sustainable Energy",
+        "Low-yield Bonds"
+    ],
+    "financial_goals": [
+        {
+            "goal": "Home Downpayment",
+            "target": 150000,
+            "deadline": "2028-12-01",
+            "priority": "High"
+        }
+    ],
+    "notes": "User expressed concern about 2026 market polarization. Avoid high-leverage crypto advice."
+}
